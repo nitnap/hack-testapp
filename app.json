@@ -5,13 +5,7 @@
   "repository": "https://github.com/nitnap/hack-testapp.git",
   "logo": "",
   "env": {
-    "username": {
-      "description": "username variable",
-      "value": "admin"
-    },
-    "password": {
-      "description": "",
-      "value": "password"
-    }
+    "username": "admin",
+    "password": "password"
   }
 }
