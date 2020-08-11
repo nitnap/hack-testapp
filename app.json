@@ -3,5 +3,15 @@
   "description": "hack app",
   "website": "",
   "repository": "https://github.com/nitnap/hack-testapp.git",
-  "logo": ""
+  "logo": "",
+  "env": {
+    "username": {
+      "description": "username variable",
+      "value": "admin"
+    },
+    "password": {
+      "description": "",
+      "value": "password"
+    }
+  }
 }
